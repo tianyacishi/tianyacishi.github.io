@@ -1,0 +1,41 @@
+body {
+    font-family: '宋体', 'SimSun', 'STSong', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #6b4e2f;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.poem {
+    margin-bottom: 40px;
+}
+
+.poem h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.poem p {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #6b4e2f;
+    color: #fff;
+}
